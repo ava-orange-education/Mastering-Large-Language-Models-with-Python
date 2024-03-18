@@ -1,0 +1,273 @@
+Text,Label
+When are you open?,HOURS
+Are you open on holidays?,HOURS
+What time do you close?,HOURS
+Are you open on weekends?,HOURS
+Do you have extended hours?,HOURS
+What is your brunch special?,MENU
+Do you offer vegan options?,MENU
+What's the soup of the day?,MENU
+Is there a kids' menu?,MENU
+Do you have gluten-free options?,MENU
+Table for 10 people tonight?,RESERVATIONS
+Do you take walk-ins?,RESERVATIONS
+Is the terrace open for reservations?,RESERVATIONS
+Can I book a private room?,RESERVATIONS
+How far in advance should I book?,RESERVATIONS
+My food was cold. Can I get a discount?,COMPLAINT
+The waiter was rude,COMPLAINT
+I found a hair in my soup,COMPLAINT
+My order is incorrect,COMPLAINT
+The restaurant is too noisy,COMPLAINT
+Is parking available?,FACILITIES
+Do you offer free Wi-Fi?,FACILITIES
+Is there a dress code?,FACILITIES
+Are you wheelchair accessible?,FACILITIES
+Do you have high chairs for kids?,FACILITIES
+Can I bring my dog?,POLICY
+Do you allow BYOB?,POLICY
+Is smoking allowed?,POLICY
+Do you offer military discounts?,POLICY
+Is there a corkage fee?,POLICY
+How do I get to your restaurant?,DIRECTIONS
+Are you near the subway?,DIRECTIONS
+What's the nearest landmark?,DIRECTIONS
+Do you offer valet parking?,DIRECTIONS
+Is there a bus stop near you?,DIRECTIONS
+Do you offer takeout?,SERVICE_OPTIONS
+Can I get curbside pickup?,SERVICE_OPTIONS
+Do you deliver?,SERVICE_OPTIONS
+Do you cater events?,SERVICE_OPTIONS
+Do you have a loyalty program?,SERVICE_OPTIONS
+Do you serve alcohol?,DRINKS
+Do you have craft beers?,DRINKS
+What cocktails are on the menu?,DRINKS
+Do you have a wine list?,DRINKS
+Can I get a non-alcoholic beer?,DRINKS
+What are today's specials?,DAILY_SPECIALS
+Do you have an early bird menu?,DAILY_SPECIALS
+Are there lunch specials?,DAILY_SPECIALS
+Any happy hour discounts?,DAILY_SPECIALS
+Do you have seasonal dishes?,DAILY_SPECIALS
+Do you offer group discounts?,DISCOUNTS
+Is there a student discount?,DISCOUNTS
+Do you have senior citizen discounts?,DISCOUNTS
+Are there corporate discounts?,DISCOUNTS
+Do you offer bulk discounts?,DISCOUNTS
+Is there live music?,ENTERTAINMENT
+Do you have TV screens?,ENTERTAINMENT
+Do you host trivia nights?,ENTERTAINMENT
+Do you show sports games?,ENTERTAINMENT
+Any special events coming up?,ENTERTAINMENT
+How can I pay?,PAYMENT
+Do you accept credit cards?,PAYMENT
+Can I pay with a check?,PAYMENT
+Do you take Apple Pay?,PAYMENT
+Is tipping included?,PAYMENT
+Is it family-friendly?,AMBIENCE
+Do you have a quiet section?,AMBIENCE
+Is the atmosphere romantic?,AMBIENCE
+Do you have outdoor seating?,AMBIENCE
+Is it casual or formal?,AMBIENCE
+Can I pre-order?,ORDERING
+Do you have an online menu?,ORDERING
+Can I place an order by phone?,ORDERING
+Do you have a mobile app?,ORDERING
+Can I customize my dish?,ORDERING
+How do I provide feedback?,FEEDBACK
+Do you have a comment card?,FEEDBACK
+Who should I contact for complaints?,FEEDBACK
+Where can I leave a review?,FEEDBACK
+Do you have a customer survey?,FEEDBACK
+Can I reserve a table for next Friday?,RESERVATIONS
+What's the maximum party size for reservations?,RESERVATIONS
+Do you require a deposit for private room bookings?,RESERVATIONS
+How long is the average wait time for walk-ins?,RESERVATIONS
+Is there a minimum spend requirement for private events?,RESERVATIONS
+Do you have any vegetarian appetizers?,MENU
+What's the chef's special today?,MENU
+Can I order a side salad instead of fries?,MENU
+Are there any nut-free dessert options?,MENU
+Is there a wine pairing suggestion for the steak?,MENU
+Can I get a table by the window?,AMBIENCE
+Do you have a fireplace in the dining area?,AMBIENCE
+Is there live jazz music on weekends?,ENTERTAINMENT
+Can I watch the game on a big screen?,ENTERTAINMENT
+Are there any upcoming wine tasting events?,ENTERTAINMENT
+Is there a separate area for smokers?,FACILITIES
+Do you have a coat check service?,FACILITIES
+Is there an outdoor bar?,FACILITIES
+Can I charge my electric car in the parking lot?,FACILITIES
+Is there a dedicated kids' playroom?,FACILITIES
+Do you provide dog bowls for pets on the patio?,FACILITIES
+Do you offer any discounts for first-time customers?,DISCOUNTS
+Is there a birthday special for dessert?,DISCOUNTS
+Are there any loyalty program perks for regulars?,DISCOUNTS
+Do you offer a discount for large corporate events?,DISCOUNTS
+Can I bring my own bottle of wine?,POLICY
+Is there a limit on the number of BYOB bottles?,POLICY
+Is there a designated smoking area outside?,POLICY
+Can I use my own decorations for a private event?,POLICY
+Is there a fee for using the private room?,POLICY
+How far is your restaurant from the airport?,DIRECTIONS
+Is there a shuttle service from nearby hotels?,DIRECTIONS
+Can I reach your place by public transportation?,DIRECTIONS
+Do you offer any shuttle service to local attractions?,DIRECTIONS
+Is there a bicycle parking area nearby?,FACILITIES
+Do you have a lost and found service?,FACILITIES
+Can I rent the entire restaurant for a wedding?,SERVICE_OPTIONS
+What's the cancellation policy for catering orders?,SERVICE_OPTIONS
+Do you offer event planning assistance?,SERVICE_OPTIONS
+Is there a waitlist for delivery during peak hours?,SERVICE_OPTIONS
+Can I order from your full menu for takeout?,SERVICE_OPTIONS
+Do you have any signature cocktails created by your mixologist?,DRINKS
+Are there any non-alcoholic beverages on the drink menu?,DRINKS
+Can I get a flight of local craft beers?,DRINKS
+Do you offer wine flights for tasting?,DRINKS
+What's the special coffee of the day?,DRINKS
+Are there any secret menu items for regulars?,MENU
+Can I request a custom cake for a surprise party?,SERVICE_OPTIONS
+Do you provide catering for dietary restrictions?,SERVICE_OPTIONS
+Is there a time limit for reservations at the terrace?,RESERVATIONS
+What's the policy on late-night dining?,POLICY
+Do you have a VIP area for special occasions?,AMBIENCE
+Is there a quiet corner for studying or working?,AMBIENCE
+Can I make changes to my online order after placing it?,ORDERING
+What's the process for returning a bottle of wine?,POLICY
+Can I request a tasting menu for a special celebration?,MENU
+Do you offer any cooking classes for customers?,ENTERTAINMENT
+Can I bring my own board games for entertainment?,ENTERTAINMENT
+Are there any themed nights for costume parties?,ENTERTAINMENT
+Do you have a patio section with heating lamps in winter?,AMBIENCE
+What's the policy on splitting checks for large groups?,PAYMENT
+Can I pay using cryptocurrency?,PAYMENT
+Do you offer any dietary advice for menu choices?,MENU
+Is there a separate area for solo diners?,AMBIENCE
+Do you have any secret recipes you share with customers?,MENU
+What's the process for reserving a chef's table?,RESERVATIONS
+Are there any cultural festivals you participate in?,ENTERTAINMENT
+Can I get a tour of the kitchen during my visit?,AMBIENCE
+Do you provide special discounts for healthcare workers?,DISCOUNTS
+Is there a waiting area for takeout orders?,SERVICE_OPTIONS
+Can I order a custom cocktail not on the menu?,DRINKS
+Do you have any signature mocktails for non-drinkers?,DRINKS
+Is there a maximum order limit for delivery?,SERVICE_OPTIONS
+Can I request a personalized playlist for my private event?,ENTERTAINMENT
+Can I pay using contactless methods like Apple Watch?,PAYMENT
+Do you offer any self-service kiosks for ordering?,ORDERING
+Can I bring my own reusable containers for takeout?,POLICY
+Is there a tasting menu available for vegetarians?,MENU
+What's the policy on bringing outside desserts for events?,POLICY
+Can I get a private tour of your wine cellar?,AMBIENCE
+Are there any discounts for booking a reservation online?,DISCOUNTS
+Is there a children's menu for kids under 12?,MENU
+Do you have a pet-friendly outdoor seating area?,AMBIENCE
+Can I order a custom-made birthday cake for my celebration?,SERVICE_OPTIONS
+Do you have any interactive dining experiences?,ENTERTAINMENT
+What's the process for redeeming loyalty program rewards?,SERVICE_OPTIONS
+Can I make special requests for the ambiance during my reservation?,AMBIENCE
+Is there a lost and found service for personal items left behind?,FACILITIES
+Do you have a separate area for hosting wedding receptions?,AMBIENCE
+Is there a designated waiting area for pickup orders?,SERVICE_OPTIONS
+What's the policy on bringing outside alcoholic beverages?,POLICY
+Can I book a table for a surprise proposal?,RESERVATIONS
+Do you offer any specials for holidays like Valentine's Day?,DAILY_SPECIALS
+Is there a waiting area for guests before their reservation time?,AMBIENCE
+Can I request a specific table with a view of the garden?,AMBIENCE
+Is there a corkage fee for bringing my own wine to a private event?,POLICY
+What's the policy on lost or stolen gift cards?,POLICY
+Can I bring my own decorations for a birthday party?,POLICY
+Do you have a dedicated room for wine tasting events?,AMBIENCE
+Can I request a personalized dessert for my anniversary celebration?,SERVICE_OPTIONS
+Do you have any exclusive membership programs for frequent diners?,SERVICE_OPTIONS
+Can I make a reservation for a private romantic dinner on the rooftop?,RESERVATIONS
+Is there a waiting area with comfortable seating for guests with early reservations?,AMBIENCE
+Do you offer any culinary workshops or classes for aspiring chefs?,ENTERTAINMENT
+What's the process for redeeming discounts with a loyalty program membership?,SERVICE_OPTIONS
+Can I order a custom-made cake for my child's birthday party?,SERVICE_OPTIONS
+Is there a designated area for photo opportunities inside the restaurant?,AMBIENCE
+Can I request a private tour of your garden or outdoor space?,AMBIENCE
+Do you have any signature dishes inspired by local cuisine?,MENU
+Are there any wellness-themed menu items for health-conscious diners?,MENU
+Can I make a reservation for a table by the fireplace during the winter months?,RESERVATIONS
+Is there a waiting area for guests to enjoy a pre-dinner cocktail before their reservation?,AMBIENCE
+Can I customize the lighting and music for my private event?,AMBIENCE
+What's the process for redeeming rewards in your loyalty program?,SERVICE_OPTIONS
+Do you have any discounts for active-duty military personnel?,DISCOUNTS
+Can I bring my own musical instruments for live entertainment during my private event?,ENTERTAINMENT
+Is there a waiting area with board games for guests to enjoy before their reservation?,AMBIENCE
+Do you have any seasonal menu items that change with the weather?,MENU
+Can I request a special tasting menu for my wine club's visit?,MENU
+Is there a dedicated area for guests to enjoy cigars after their meal?,AMBIENCE
+Can I customize the menu for my wedding reception?,SERVICE_OPTIONS
+Do you have any special discounts for local residents?,DISCOUNTS
+Can I bring my own photographer for my private event?,POLICY
+Is there a dedicated area for solo diners to enjoy their meal in peace?,AMBIENCE
+Do you have any cooking classes for children to learn the basics of cooking?,ENTERTAINMENT
+Can I make a reservation for a table with a sunset view on the terrace?,RESERVATIONS
+Is there a waiting area with a selection of books for guests to read before their reservation?,AMBIENCE
+Do you have any signature cocktails named after famous historical figures?,DRINKS
+Are there any non-alcoholic beverages inspired by your region's culture?,DRINKS
+Can I get a personalized wine recommendation from your sommelier?,DRINKS
+Is there a discount for booking a private event during off-peak hours?,DISCOUNTS
+Can I bring my own decorations for a retirement party?,POLICY
+Do you have a dedicated area for live music performances during dinner service?,ENTERTAINMENT
+Is there a waiting area with a view of the open kitchen for guests to watch the chefs in action before their reservation?,AMBIENCE
+Do you offer any discounts for booking a reservation well in advance?,DISCOUNTS
+Can I request a private tour of your restaurant's art collection?,AMBIENCE
+Is there a dedicated area for guests to enjoy live cooking demonstrations?,ENTERTAINMENT
+Can I make a reservation for a table with a view of the ocean?,RESERVATIONS
+Is there a waiting area with a cozy fireplace for guests to relax before their reservation?,AMBIENCE
+Do you have any signature coffee blends exclusive to your restaurant?,DRINKS
+Are there any non-alcoholic cocktails inspired by local traditions?,DRINKS
+Can I get a tasting flight of your signature desserts?,DAILY_SPECIALS
+Is there a dedicated area for guests to enjoy live comedy shows during their meal?,ENTERTAINMENT
+Can I bring my own wine for a blind tasting challenge with friends?,POLICY
+Is there a waiting area with a view of the sunset for guests to enjoy before their reservation?,AMBIENCE
+Do you offer any discounts for booking a reservation for a milestone celebration?,DISCOUNTS
+Can I request a private tour of your rooftop garden?,AMBIENCE
+Is there a dedicated area for guests to enjoy live dance performances during dinner service?,ENTERTAINMENT
+Can I make a reservation for a table with a skyline view?,RESERVATIONS
+Is there a waiting area with a selection of local artisanal products for guests to explore before their reservation?,AMBIENCE
+Do you have any signature hot chocolate varieties for winter?,DRINKS
+Are there any non-alcoholic mocktails inspired by your chef's creativity?,DRINKS
+Can I get a tasting flight of your artisanal bread varieties?,DAILY_SPECIALS
+Is there a dedicated area for guests to enjoy live magic shows during their meal?,ENTERTAINMENT
+Can I bring my own gourmet ingredients for a personalized cooking experience with the chef?,POLICY
+Is there a waiting area with a live fish tank for guests to observe before their reservation?,AMBIENCE
+Do you offer any discounts for booking a reservation on special occasions like anniversaries?,DISCOUNTS
+Can I request a private tour of your wine cellar with wine pairing suggestions?,AMBIENCE
+Is there a dedicated area for guests to enjoy live classical music during dinner service?,ENTERTAINMENT
+Can I make a reservation for a table with a garden view and candlelight ambiance?,RESERVATIONS
+Is there a waiting area with a selection of international newspapers and magazines for guests to peruse before their reservation?,AMBIENCE
+Do you have any signature tea blends with unique flavors?,DRINKS
+Are there any non-alcoholic elixirs infused with exotic herbs and spices?,DRINKS
+Can I get a tasting flight of your artisanal cheese selections?,DAILY_SPECIALS
+Is there a dedicated area for guests to enjoy live theatrical performances during their meal?,ENTERTAINMENT
+Can I bring my own fresh produce for a farm-to-table cooking experience with the chef?,POLICY
+Is there a waiting area with a live art demonstration for guests to appreciate before their reservation?,AMBIENCE
+Do you offer any discounts for booking a reservation for a family reunion?,DISCOUNTS
+Can I request a private tour of your restaurant's history and heritage?,AMBIENCE
+Is there a dedicated area for guests to enjoy live poetry readings during dinner service?,ENTERTAINMENT
+Can I make a reservation for a table with a rooftop garden view and stargazing experience?,RESERVATIONS
+Is there a waiting area with a selection of handcrafted chocolates for guests to savor before their reservation?,AMBIENCE
+Do you have any signature smoothie combinations with local fruits?,DRINKS
+Are there any non-alcoholic refreshments inspired by your region's natural wonders?,DRINKS
+Can I get a tasting flight of your house-made ice cream flavors?,DAILY_SPECIALS
+Is there a dedicated area for guests to enjoy live storytelling performances during their meal?,ENTERTAINMENT
+Can I bring my own homegrown herbs for a garden-to-table cooking experience with the chef?,POLICY
+Is there a waiting area with a live pottery demonstration for guests to admire before their reservation?,AMBIENCE
+Do you offer any discounts for booking a reservation for a book club gathering?,DISCOUNTS
+Can I request a private tour of your restaurant's architecture and design?,AMBIENCE
+Is there a dedicated area for guests to enjoy live stand-up comedy during dinner service?,ENTERTAINMENT
+Can I make a reservation for a table with an oceanfront view and sound of crashing waves?,RESERVATIONS
+Is there a waiting area with a selection of local artisanal teas for guests to sample before their reservation?,AMBIENCE
+Do you have any signature iced coffee blends with unique flavor infusions?,DRINKS
+Are there any non-alcoholic beverages inspired by your region's folklore and legends?,DRINKS
+Can I get a tasting flight of your chef's daily specials?,DAILY_SPECIALS
+Is there a dedicated area for guests to enjoy live acrobatic performances during their meal?,ENTERTAINMENT
+Can I bring my own homegrown vegetables for a farm-to-table cooking experience with the chef?,POLICY
+Is there a waiting area with a live painting demonstration for guests to enjoy before their reservation?,AMBIENCE
+Do you offer any discounts for booking a reservation for a photography club meetup?,DISCOUNTS
+Can I request a private tour of your restaurant's sustainable practices and eco-friendly initiatives?,AMBIENCE
+Is there a dedicated area for guests to enjoy live jazz quartet performances during dinner service?,ENTERTAINMENT

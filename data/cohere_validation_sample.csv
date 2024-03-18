@@ -1,0 +1,17 @@
+Text,Label
+Is breakfast served all day?,HOURS
+Do you have any sugar-free desserts?,MENU
+Can I make a reservation for brunch?,RESERVATIONS
+The air conditioning is too cold,COMPLAINT
+Is there bike parking?,FACILITIES
+Are service animals allowed?,POLICY
+What's the best way to get there by car?,DIRECTIONS
+Do you offer dine-in?,SERVICE_OPTIONS
+Is there a full bar?,DRINKS
+Do you offer weekend specials?,DAILY_SPECIALS
+Is there a first-time customer discount?,DISCOUNTS
+Do you host karaoke nights?,ENTERTAINMENT
+Can I pay in cash?,PAYMENT
+Do you offer private booths?,AMBIENCE
+Can I schedule a pick-up order?,ORDERING
+How can I give a compliment?,FEEDBACK
